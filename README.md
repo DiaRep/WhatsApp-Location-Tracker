@@ -1,7 +1,7 @@
 🔥 WhatsApp Location Tracker (By Mr_Spy777)  🔥 
        <br>
        
-╭━━♻️ Upgrade 15.12.2023
+╭━━♻️ Upgrade 26.12.2023
 <br>
 ├  With this program you get the exact location of the person logged into the account.
 <br>
